@@ -1,0 +1,26 @@
+{
+  "name": "soccer-rage",
+  "version": "0.0.1",
+  "description": "Standardized Occupation Coding for Computer-assisted Epidemiological Research (SOCcer) with Retrieval-Augmented Generation (RAGe)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyabbalas/soccer-rage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jeyabbalas/soccer-rage/issues"
+  },
+  "homepage": "https://github.com/jeyabbalas/soccer-rage#readme",
+  "dependencies": {
+    "@huggingface/transformers": "^3.7.2",
+    "onnxruntime-node": "^1.22.0-rev",
+    "papaparse": "^5.5.3"
+  }
+}
